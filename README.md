@@ -7,3 +7,8 @@ Install pandas
 ```
 pip3 install pandas
 ```
+
+install openpyxl
+```
+pip install openpyxl
+```
